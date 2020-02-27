@@ -9,7 +9,7 @@
 
   * The application is deployed using Heroku: 
 
-  * Running aplication can be reached at 
+  * Running aplication can be reached at https://stormy-chamber-22919.herokuapp.com/
 
   # Setup for Local Machine
 
