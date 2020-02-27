@@ -1,0 +1,12 @@
+.btn-group{
+    display:inline-flex;
+    margin-bottom:0.2rem;
+    padding:6px;
+    font-size:17px;
+
+
+}
+
+.dropdown-menu{
+    background-color:rgb(160, 221, 231)
+}

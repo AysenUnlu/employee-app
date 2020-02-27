@@ -1,0 +1,24 @@
+img{
+   border-radius:50%;
+   float:left;
+   margin-right:2rem;
+   
+}
+#name{ 
+    font-size:1rem;
+    line-height:0.2rem;
+    margin-top:0.8rem;
+   
+    
+}
+#title{ 
+    font-size:1rem;
+    font-weight:bold;
+}
+.card-header{
+    clear:both;
+    background-color:pink;
+    -moz-box-shadow:    inset 0 0 7px rgb(228, 80, 104);
+    -webkit-box-shadow: inset 0 0 7px rgb(228, 80, 104);
+    box-shadow:         inset 0 0 7px rgb(228, 80, 104);
+}
