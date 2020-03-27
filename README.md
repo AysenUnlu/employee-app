@@ -3,13 +3,14 @@
 
 ## About: ##
 
-* For this assignment, an employee directory is created with React. The application's UI is broken down into components, component state is managed, and the application responds to user events. A file filled with 100 random employee information is used as a mock database. When the user loads the page, a list of employees is shown with their picture, name and role in the company. When user clickes an employee, a detailed card pops up next to the list displaying more detailed information about the employee such as phone, email, website and department. The employees can be filtered by the user according to name using the search bar. The user also can sort the employees by their department, their roles in the company and also by their name.
+* For this project, an employee directory is created with React. The application's UI is broken down into components, component state is managed, and the application responds to user events. A file filled with 100 random employee information is used as a mock database. When the user loads the page, a list of employees is shown with their picture, name and role in the company. When user clickes an employee, a detailed card pops up next to the list displaying more detailed information about the employee such as phone, email, website and department. The employees can be filtered by the user according to name using the search bar. The user also can sort the employees by their department, their roles in the company and also by their name.
 
 ## Installation: ##
 
   * The application is deployed using Heroku: 
 
-  * Running aplication can be reached at https://stormy-chamber-22919.herokuapp.com/
+  * Running aplication can be reached at 
+  [https://stormy-chamber-22919.herokuapp.com/](https://stormy-chamber-22919.herokuapp.com/)
 
   # Setup for Local Machine
 
